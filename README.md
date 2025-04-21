@@ -1,4 +1,4 @@
-# Finkart-Backend-Round1
+# Backend-project
 This project is an Express API built using TypeScript and Prisma. It provides CRUD (Create, Read, Update, Delete) operations for managing transactions stored in a database.
 
 ## Features:
